@@ -90,7 +90,7 @@ Are you a talented programmer looking to contribute some code? We'd love the hel
 [Issues]: http://issues.spongepowered.org/
 [SpongeAPI Wiki]: https://github.com/SpongePowered/SpongeAPI/wiki/
 [Sponge Wiki]: https://github.com/SpongePowered/Sponge/wiki/
-[Java]: http://java.oracle.com/
+[Java]: http://java.oracle.com
 [Source]: https://github.com/SpongePowered/Sponge/
 [MIT License]: http://www.tldrlegal.com/license/mit-license
 [Community Chat]: https://webchat.esper.net/?channels=sponge
